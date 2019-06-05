@@ -1,4 +1,4 @@
-module github.com/Lusitaniae/apache_exporter
+module github.com/myokoo/apache_exporter
 
 go 1.12
 
